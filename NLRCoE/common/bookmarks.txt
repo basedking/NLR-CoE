@@ -1,20 +1,20 @@
-bookmark =
-{
-	name = "GC_NAME"
-	desc = "GC_DESC"
-	date = 1815.11.20
-	cameraX = 2950 
-	cameraY = 1550
-}
-
 #bookmark =
 #{
 #	name = "GC_NAME"
 #	desc = "GC_DESC"
-#	date = 1836.1.1
+#	date = 1815.11.20
 #	cameraX = 2950 
 #	cameraY = 1550
 #}
+
+bookmark =
+{
+	name = "GC_NAME"
+	desc = "GC_DESC"
+	date = 1836.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
 
 #bookmark =
 #{
