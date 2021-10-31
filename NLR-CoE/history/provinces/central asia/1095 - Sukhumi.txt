@@ -1,0 +1,6 @@
+owner = ABK
+controller = ABK
+add_core = ABK
+add_core = GEO
+trade_goods = tea
+life_rating = 37

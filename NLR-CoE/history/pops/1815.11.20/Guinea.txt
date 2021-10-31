@@ -1,0 +1,337 @@
+#Casamance Region #see Guinea Bissau
+#uncolonized in 1836/ruled by Kingdom of Gabu
+#Boffa #now part of Guinea
+1879 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 417
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 231
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 881
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 924
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 17716
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2782
+	}
+}
+#Jallon Region #see Sierra Leone
+#uncolonized in 1836/ruled by Emirate of Futa Jallon
+#Timbo  
+1880 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 463
+	}
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 46
+	}
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 46
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 231
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 973
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 1020
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 18388
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1113
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 602
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2968
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 2408
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 54076
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3710
+	}
+}
+#Dinguiraye  
+1881 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 347
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 185
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 718
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 740
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 14330
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 347
+	}
+	officers = {
+		culture = mande
+		religion = sunni
+		size = 69
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 185
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1020
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 740
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 14979
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 92
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 46
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 278
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 184
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 5101
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3710
+	}
+}
+#Bure Region #see Mali
+#uncolonized in 1836/ruled by Futa Jallon
+#Kankan  
+1882 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 115
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 69
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 371
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 368
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 5843
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 440
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 231
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1159
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 924
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 19223
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 92
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 46
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 278
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 276
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 5078
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2782
+	}
+}
+#uncolonized in 1836}
+#Beyla  
+1883 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 742
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 371
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1530
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 1576
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 30354
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 92
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 46
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 231
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 184
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 4220
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4637
+	}
+}

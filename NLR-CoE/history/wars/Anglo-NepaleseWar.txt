@@ -1,0 +1,73 @@
+name = "Gurkha War"
+
+1814.11.1 = {
+	add_attacker = ENG
+	add_attacker = EIC
+	add_attacker = SIK
+	add_attacker = GRW
+	add_attacker = SMR
+	add_attacker = MND
+	add_attacker = BSR
+	add_defender = NEP
+	
+	war_goal = {
+		casus_belli = demand_concession_casus_belli
+		state_province_id = 1238
+		actor = EIC
+		receiver = NEP
+	}
+	war_goal = {
+		casus_belli = demand_concession_casus_belli
+		state_province_id = 1235
+		actor = EIC
+		receiver = NEP
+	}
+	war_goal = {
+		casus_belli = demand_concession_casus_belli
+		state_province_id = 1252
+		actor = EIC
+		receiver = NEP
+	}
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = ENG
+		receiver = NEP
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = NEP
+		receiver = SIK
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = NEP
+		receiver = GRW
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = NEP
+		receiver = SMR
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = NEP
+		receiver = MND
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = NEP
+		receiver = BSR
+	}
+}
+
+1816.3.4 = {
+	rem_attacker = ENG
+	rem_attacker = EIC
+	rem_attacker = PAT
+	rem_attacker = SIK
+	rem_attacker = GRW
+	rem_attacker = SMR
+	rem_attacker = MND
+	rem_attacker = BSR
+	rem_defender = NEP
+}

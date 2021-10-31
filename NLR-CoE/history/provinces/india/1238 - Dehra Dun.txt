@@ -1,0 +1,5 @@
+owner = NEP
+controller = ENG
+add_core = GRW
+trade_goods = tea
+life_rating = 33

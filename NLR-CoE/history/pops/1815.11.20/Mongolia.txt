@@ -1,0 +1,432 @@
+#Outer Mongolia
+#Urga
+1465 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 508
+	}
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 19
+	}
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 87
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1099
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1236
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 984
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 23197
+	}
+	bureaucrats = {
+		culture = han
+		religion = mahayana
+		size = 31
+	}
+	clergymen = {
+		culture = han
+		religion = mahayana
+		size = 15
+	}
+	artisans = {
+		culture = han
+		religion = mahayana
+		size = 109
+	}
+	soldiers = {
+		culture = han
+		religion = mahayana
+		size = 104
+	}
+	farmers = {
+		culture = han
+		religion = mahayana
+		size = 906
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 90
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 433
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 360
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 8175
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 316
+	}
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 12
+	}
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 53
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 685
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 771
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 612
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 14463
+	}
+}
+#Bayan Tumen
+1467 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 320
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 163
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 801
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 652
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 14563
+	}
+	aristocrats = {
+		culture = yakut
+		religion = animist
+		size = 38
+	}
+	clergymen = {
+		culture = yakut
+		religion = animist
+		size = 18
+	}
+	artisans = {
+		culture = yakut
+		religion = animist
+		size = 46
+	}
+	soldiers = {
+		culture = yakut
+		religion = animist
+		size = 32
+	}
+	farmers = {
+		culture = yakut
+		religion = animist
+		size = 1075
+	}
+}
+#Uliastay
+1468 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 190
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 102
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 514
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 408
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 9391
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 74
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 39
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 188
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 156
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 3430
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 205
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 104
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 411
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 416
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 9625
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 342
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 178
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 865
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 712
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 15750
+	}
+}
+#Altai
+1466 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 228
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 114
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 600
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 520
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 9792
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 127
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 68
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 344
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 272
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 6295
+	}
+}
+#Khovd
+2679 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 189
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 97
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 488
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 388
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 8914
+	}
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 107
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 53
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 324
+	}
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 280
+	}
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 5967
+	}
+	
+	
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 171
+	}
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 86
+	}
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 343
+	}
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 344
+	}
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 8039
+	}
+}

@@ -1,0 +1,5 @@
+owner = PLP
+controller = PLP
+add_core = PLP
+trade_goods = grain
+life_rating = 33

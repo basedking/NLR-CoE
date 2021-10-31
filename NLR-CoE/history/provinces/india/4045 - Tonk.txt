@@ -1,0 +1,5 @@
+owner = TNK
+controller = TNK
+add_core = TNK
+trade_goods = grain
+life_rating = 33

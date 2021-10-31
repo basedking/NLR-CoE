@@ -1,0 +1,567 @@
+#Hawaii
+#Honolulu
+658 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 171.0
+	}
+	bureaucrats = {
+		culture = polynesian
+		religion = protestant
+		size = 28.5
+	}
+	officers = {
+		culture = polynesian
+		religion = protestant
+		size = 9.5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 95.0
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 437.0
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 1672.0
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 7609.5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = catholic
+		size = 9.5
+	}
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 38.0
+	}
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 760.0
+	}
+}
+#Hilo
+2623 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 135.0
+	}
+	bureaucrats = {
+		culture = polynesian
+		religion = protestant
+		size = 22.5
+	}
+	officers = {
+		culture = polynesian
+		religion = protestant
+		size = 7.5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 75.0
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 345.0
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 1320.0
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 6007.5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = catholic
+		size = 7.5
+	}
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 30.0
+	}
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 600.0
+	}
+}
+#Wailiku
+2526 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 81.45
+	}
+	bureaucrats = {
+		culture = polynesian
+		religion = protestant
+		size = 13.575
+	}
+	officers = {
+		culture = polynesian
+		religion = protestant
+		size = 4.525
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 45.25
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 208.15
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 796.4
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 3624.525
+	}
+	clergymen = {
+		culture = polynesian
+		religion = catholic
+		size = 4.525
+	}
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 18.1
+	}
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 362.0
+	}
+}
+#Lihue
+2546 = {
+	aristocrats = {
+		culture = polynesian
+		religion = protestant
+		size = 60.75
+	}
+	bureaucrats = {
+		culture = polynesian
+		religion = protestant
+		size = 10.125
+	}
+	officers = {
+		culture = polynesian
+		religion = protestant
+		size = 3.375
+	}
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 33.75
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 155.25
+	}
+	soldiers = {
+		culture = polynesian
+		religion = protestant
+		size = 594.0
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 2703.375
+	}
+	clergymen = {
+		culture = polynesian
+		religion = catholic
+		size = 3.375
+	}
+	artisans = {
+		culture = polynesian
+		religion = catholic
+		size = 13.5
+	}
+	farmers = {
+		culture = polynesian
+		religion = catholic
+		size = 270.0
+	}
+}
+#Gilbert and Ellice Islands
+#Line Islands
+686 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 20
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 125
+	}
+}
+#New Caledonia
+#Wallis & Futuna
+2542 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 35
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 40
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 675
+	}
+}
+#Samoa
+#Apia
+2543 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 187
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 93
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 609
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 560
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 10684
+	}
+}
+#Pago Pago
+2544 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 20
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 51
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 103
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 120
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 1854
+	}
+}
+#Northern Island
+#Tonga
+2540 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 72
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 108
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 217
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 144
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 4286
+	}
+}
+#Rarotonga
+2545 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 69
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 97
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 209
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 164
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 3774
+	}
+}
+#Union Islands
+2547 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 3
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 3
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 8
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 137
+	}
+}
+#Niue
+2548 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 20
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 455
+	}
+}
+#Pitcairn Islands
+2552 = {
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 1
+	}
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 4
+	}
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 20
+	}
+}
+#Polynesia
+#Tahiti
+801 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 75
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 50
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 225
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 200
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 4100
+	}
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 60
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 60
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 1125
+	}
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 35
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 75
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 60
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 1350
+	}
+}
+#Santiago
+#Easter Island
+2336 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 15
+	}
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 35
+	}
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 40
+	}
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 675
+	}
+}

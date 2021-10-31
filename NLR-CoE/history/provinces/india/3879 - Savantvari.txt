@@ -1,0 +1,5 @@
+owner = SVV
+controller = SVV
+add_core = SVV
+trade_goods = grain
+life_rating = 33

@@ -1,0 +1,389 @@
+#Hadramaut Region #see Oman
+#under the rule of Yemen in 1836  
+#Mukalla   
+1173 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 597
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 66
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 109
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 331
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1769
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 19460
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 28090
+	}
+}
+#Ghaydah   
+1175 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 441
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 220
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1105
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 880
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 20570
+	}
+}
+#Bayda   
+1176 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1215
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 772
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3760
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 3088
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 68679
+	}
+}
+#under the rule of Oman in 1836  
+#Socotra   
+1177 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 220
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 220
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 663
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 436
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 12274
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4865
+	}
+}
+#Yemen Region  
+#under the rule of Yemen in 1836  
+#Sana   
+1178 = {
+	aristocrats = {
+		culture = arab
+		religion = shiite
+		size = 2100
+	}
+	bureaucrats = {
+		culture = arab
+		religion = shiite
+		size = 220
+	}
+	officers = {
+		culture = arab
+		religion = shiite
+		size = 331
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 1105
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 5640
+	}
+	soldiers = {
+		culture = arab
+		religion = shiite
+		size = 70776
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 85711
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 331
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 331
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 663
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 880
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 16146
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 109
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 6523
+	}
+}
+#Hodeida   
+1179 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 663
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 441
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2211
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 19460
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 36496
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 109
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 220
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 441
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 436
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 7962
+	}
+}
+#Taizz   
+1180 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 4865
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 220
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1105
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 19460
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 16036
+	}
+	aristocrats = {
+		culture = arab
+		religion = shiite
+		size = 552
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 331
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 1769
+	}
+	soldiers = {
+		culture = arab
+		religion = shiite
+		size = 1324
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 28312
+	}
+}
+#Aden   
+1412 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 331
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 220
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1105
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 880
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 16036
+	}
+	aristocrats = {
+		culture = arab
+		religion = shiite
+		size = 220
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 331
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 663
+	}
+	soldiers = {
+		culture = arab
+		religion = shiite
+		size = 19460
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 11833
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 109
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 109
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 441
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 436
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 8072
+	}
+}

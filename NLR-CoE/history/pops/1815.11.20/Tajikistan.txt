@@ -1,0 +1,246 @@
+#------Samarkand Oblast------
+#Khujand
+1201 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 38
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = sunni
+		size = 38
+	}
+	officers = {
+		culture = uzbek
+		religion = sunni
+		size = 38
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 38
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 381
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 916
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 6861
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 58
+	}
+	bureaucrats = {
+		culture = persian
+		religion = sunni
+		size = 58
+	}
+	officers = {
+		culture = persian
+		religion = sunni
+		size = 58
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 58
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 583
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 1400
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 10487
+	}
+	
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 7
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = sunni
+		size = 7
+	}
+	officers = {
+		culture = kazak
+		religion = sunni
+		size = 7
+	}
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 7
+	}
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 71
+	}
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 172
+	}
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1277
+	}
+	
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 9
+	}
+	bureaucrats = {
+		culture = uighur
+		religion = sunni
+		size = 9
+	}
+	officers = {
+		culture = uighur
+		religion = sunni
+		size = 9
+	}
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 9
+	}
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 89
+	}
+	soldiers = {
+		culture = uighur
+		religion = sunni
+		size = 216
+	}
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 1607
+	}
+	
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 2
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 4
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 41
+	}
+}
+#Badakhshan Region 
+#under the rule of Kokand in 1836  
+#Kulob   
+1207 = {
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 352
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 168
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 888
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 612
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 16829
+	}
+	
+	
+	
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 358
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 179
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 871
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 716
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 17897
+	}
+	aristocrats = {
+		culture = kirgiz
+		religion = sunni
+		size = 76
+	}
+	clergymen = {
+		culture = kirgiz
+		religion = sunni
+		size = 76
+	}
+	artisans = {
+		culture = kirgiz
+		religion = sunni
+		size = 179
+	}
+	soldiers = {
+		culture = kirgiz
+		religion = sunni
+		size = 100
+	}
+	farmers = {
+		culture = kirgiz
+		religion = sunni
+		size = 3743
+	}
+}

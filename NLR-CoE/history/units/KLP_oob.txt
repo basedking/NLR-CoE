@@ -1,0 +1,19 @@
+army = {
+	name = "Korean Imperial Army"
+	location = 1301
+	regiment = {
+		name= "1. Kolhapur Militia"
+		type = irregular
+		home = 1301
+	}
+	regiment = {
+		name= "2. Kolhapur Militia""
+		type = irregular
+		home = 1301
+	}
+	regiment = {
+		name= "1. Sangli Militia""
+		type = irregular
+		home = 3878
+	}
+}

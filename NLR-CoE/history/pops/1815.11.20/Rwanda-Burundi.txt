@@ -1,0 +1,79 @@
+#Ruanda-Urundi Region  
+#uncolonized in 1836/ruled by kingdom of Rwanda
+#Kigali 
+2034 = {
+	aristocrats = {
+		culture = ruanda
+		religion = animist
+		size = 4316
+	}
+	bureaucrats = {
+		culture = ruanda
+		religion = animist
+		size = 44
+	}
+	officers = {
+		culture = ruanda
+		religion = animist
+		size = 220
+	}
+	clergymen = {
+		culture = ruanda
+		religion = animist
+		size = 3083
+	}
+	artisans = {
+		culture = ruanda
+		religion = animist
+		size = 10924
+	}
+	soldiers = {
+		culture = ruanda
+		religion = animist
+		size = 8808
+	}
+	farmers = {
+		culture = ruanda
+		religion = animist
+		size = 199458
+	}
+}
+#uncolonized in 1836/ruled by kingdom of Burundi
+#Usumbura 
+2035 = {
+	aristocrats = {
+		culture = rundi
+		religion = animist
+		size = 4108
+	}
+	bureaucrats = {
+		culture = rundi
+		religion = animist
+		size = 28
+	}
+	officers = {
+		culture = rundi
+		religion = animist
+		size = 207
+	}
+	clergymen = {
+		culture = rundi
+		religion = animist
+		size = 2124
+	}
+	artisans = {
+		culture = rundi
+		religion = animist
+		size = 10577
+	}
+	soldiers = {
+		culture = rundi
+		religion = animist
+		size = 8496
+	}
+	farmers = {
+		culture = rundi
+		religion = animist
+		size = 192369
+	}
+}

@@ -1,0 +1,53 @@
+name = "Platinean War of Independence"
+
+1810.1.1 = {
+	add_attacker = SPA
+	add_defender = ARG
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = SPA
+		receiver = ARG
+	}
+	war_goal = {
+		casus_belli = place_in_the_sun
+		state_province_id = 2313
+		actor = ARG
+		receiver = SPA
+	}
+	war_goal = {
+		casus_belli = place_in_the_sun
+		state_province_id = 2305
+		actor = ARG
+		receiver = SPA
+	}
+	war_goal = {
+		casus_belli = place_in_the_sun
+		state_province_id = 2310
+		actor = ARG
+		receiver = SPA
+	}
+	war_goal = {
+		casus_belli = place_in_the_sun
+		state_province_id = 2311
+		actor = ARG
+		receiver = SPA
+	}
+	war_goal = {
+		casus_belli = place_in_the_sun
+		state_province_id = 2549
+		actor = ARG
+		receiver = SPA
+	}
+	war_goal = {
+		casus_belli = place_in_the_sun
+		state_province_id = 4967
+		actor = ARG
+		receiver = SPA
+	}
+}
+
+1818.1.1 = {
+	rem_attacker = SPA
+	rem_defender = ARG
+}

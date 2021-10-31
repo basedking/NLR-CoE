@@ -1,0 +1,4 @@
+owner = NEP
+controller = ENG
+trade_goods = tea
+life_rating = 33

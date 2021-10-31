@@ -1,0 +1,6 @@
+owner = MGR
+controller = MGR
+add_core = MGR
+add_core = GEO
+trade_goods = tea
+life_rating = 37

@@ -1,0 +1,158 @@
+#Middle Congo Region
+#uncolonized in 1836/ruled by Teke in 1836
+#Nkuna
+1977 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 348
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 198
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 795
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 792
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 14374
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 3979
+	}
+}
+#Madingou
+1978 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 149
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 99
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 348
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 396
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 5272
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 2188
+	}
+}
+#Loango
+2624 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 298
+	}
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 149
+	}
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 646
+	}
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 792
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 10643
+	}
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 3979
+	}
+}
+#uncolonized in 1836 
+#Djambala
+1980 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 248
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 149
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 696
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 596
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 12683
+	}
+}
+#Impfondo
+1981 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 298
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 149
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 795
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 596
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 14523
+	}
+}

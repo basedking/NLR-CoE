@@ -1,0 +1,5 @@
+owner = GRW
+controller = GRW
+add_core = GRW
+trade_goods = grain
+life_rating = 33

@@ -1,0 +1,252 @@
+#Acre  arab-animist = druze 
+916 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 80
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 52
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 270
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 208
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 4958
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 107
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 2032
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 52
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 215
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 4064
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 52
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 107
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 2005
+	}
+}
+#Jerusalem
+917 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 281
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 68
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 104
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 139
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3252
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 984
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 10955
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 104
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1166
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 3883
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 68
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 1237
+	}
+	farmers = {
+		culture = jewish
+		religion = judaism
+		size = 2660
+	}
+}
+#Haifa
+919 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 236
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 188
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2098
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 944
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 14017
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 45
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 188
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1270
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 45
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 571
+	}
+	farmers = {
+		culture = jewish
+		religion = judaism
+		size = 3997
+	}
+}
+#Beersheba
+921 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 269
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 178
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1277
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 1444
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 23480
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 86
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 86
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 269
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 344
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 6759
+	}
+}

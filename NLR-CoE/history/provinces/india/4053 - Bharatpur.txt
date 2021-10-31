@@ -1,0 +1,5 @@
+owner = BTP
+controller = BTP
+add_core = BTP
+trade_goods = grain
+life_rating = 33

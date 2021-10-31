@@ -1,0 +1,108 @@
+#Rio de Oro Region #see Mauritania
+#uncolonized in 1836  
+#Al Aiyun  
+1773 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 10
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 15
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 50
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 100
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 900
+	}
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 25
+	}
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 50
+	}
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 100
+	}
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 100
+	}
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 1800
+	}
+}
+#Dahkla  
+1774 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 10
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 15
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 50
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 100
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 900
+	}
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 10
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 15
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 900
+	}
+}

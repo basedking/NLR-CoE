@@ -1,0 +1,6 @@
+owner = SKI
+controller = SKI
+add_core = SKI
+add_core = AZB
+trade_goods = grain
+life_rating = 37

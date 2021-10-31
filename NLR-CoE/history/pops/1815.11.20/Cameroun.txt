@@ -1,0 +1,508 @@
+#Cameroun
+#Douala
+1956 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1092
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = animist
+		size = 33
+	}
+	officers = {
+		culture = african_minor
+		religion = animist
+		size = 100
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 554
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2217
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 2217
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 41143
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 9408
+	}
+}
+#Buea
+1957 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1814
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 928
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 3798
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 3713
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 66802
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 20256
+	}
+}
+#Kribi
+1958 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 212
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 106
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 445
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 466
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 8872
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1272
+	}
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 137
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 74
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 307
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 296
+	}
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 4918
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 2120
+	}
+}
+#Yaounde
+1959 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 424
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 222
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 909
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 888
+	}
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 13574
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 7272
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 929
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 464
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1878
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 1939
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 31794
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 11312
+	}
+}
+#Bafoussam
+1960 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 1221
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 621
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 2464
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 2486
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 39471
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 16872
+	}
+}
+#Bertoua
+1962 = {
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 352
+	}
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 180
+	}
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 720
+	}
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 720
+	}
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 9799
+	}
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 4896
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 93
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 50
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 208
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 201
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 3052
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1728
+	}
+}
+#Garoua
+1961 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 562
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 288
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1132
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 1155
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 19326
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 6688
+	}
+}
+#Ngaoundere
+1963 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 264
+	}
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 13
+	}
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 39
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 132
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 554
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 580
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 10467
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 145
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 79
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 303
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 316
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 6784
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2112
+	}
+}
+#Maroua
+1964 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 529
+	}
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 604
+	}
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 529
+	}
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 1209
+	}
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 16178
+	}
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 151
+	}
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 151
+	}
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 604
+	}
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 604
+	}
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 11037
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 226
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 151
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 756
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 604
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 13834
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 529
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 302
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1360
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 1209
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 25023
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 9072
+	}
+}

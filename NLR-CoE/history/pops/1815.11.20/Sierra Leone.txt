@@ -1,0 +1,239 @@
+#Sierra Leone Region 
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown 
+1884 = {
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 164
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 128
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 3091
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 443
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 230
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1085
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 920
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 21029
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 575
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 295
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1512
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 1180
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 27639
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 164
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 98
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 460
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 392
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 8385
+	}
+}
+#uncolonized in 1836
+#Bo 
+1886 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 591
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 312
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1233
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 1248
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 23858
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 526
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 263
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1315
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 1116
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 24581
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4603
+	}
+}
+#Jallon Region #see Guinea
+#uncolonized in 1836
+#Falaba #now part of Sierra Leone 
+1885 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 608
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 312
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1249
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 1248
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 23825
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 526
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 263
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1085
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 1116
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 20865
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 82
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 49
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 263
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 260
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4801
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 8550
+	}
+}

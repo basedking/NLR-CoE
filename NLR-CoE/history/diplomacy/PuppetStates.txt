@@ -1,0 +1,693 @@
+#China substates
+substate = {
+	first = CHI
+	second = MCK
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = CHI
+	second = XIN
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = CHI
+	second = MGL
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = CHI
+	second = TIB
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+substate = {
+	first = CHI
+	second = KUM
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Denmark-Holstein
+vassal = {
+	first = DEN
+	second = HOL
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# Denmark-Saxe-Lauenburg
+vassal = {
+	first = DEN
+	second = SAL
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# Denmark-Schleswig
+vassal = {
+	first = DEN
+	second = SCH
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# Netherlands-Yogyakarta
+substate = {
+	first = NET
+	second = YOG
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+# Netherlands-Surakarta
+substate = {
+	first = NET
+	second = SUR
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+# Netherlands-Cirebon
+substate = {
+	first = NET
+	second = CRB
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+# Netherlands-Jambi
+substate = {
+	first = NET
+	second = JBI
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+# Portugal-Flores
+substate = {
+	first = POR
+	second = LRT
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+# Johor-Pahang
+vassal = {
+	first = JOH
+	second = PHG
+	start_date = 1815.1.1
+	end_date = 1936.1.1
+}
+
+# United Kingdom-Hanover
+vassal = {
+	first = ENG
+	second = HAN
+	start_date = 1814.10.1
+	end_date = 1837.1.1
+}
+
+# United Kingdom-Ionian Islands
+vassal = {
+	first = ENG
+	second = ION
+	start_date = 1815.11.9
+	end_date = 1864.1.1
+}
+
+# Algeria-Tuggurt
+vassal = {
+	first = ALD
+	second = TUG
+	start_date = 1815.1.1
+	end_date = 1859.1.24
+}
+
+# Algeria-Beni Abbas
+vassal = {
+	first = ALD
+	second = BBS
+	start_date = 1815.1.1
+	end_date = 1859.1.24
+}
+
+# Ottoman Empire-Wallachia
+vassal = {
+	first = TUR
+	second = WAL
+	start_date = 1815.1.1
+	end_date = 1859.1.24
+}
+
+# Ottoman Empire-Moldavia
+vassal = {
+	first = TUR
+	second = MOL
+	start_date = 1815.1.1
+	end_date = 1859.1.24
+}
+
+# Ottoman Empire-Serbia
+vassal = {
+	first = TUR
+	second = SER
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Montenegro
+vassal = {
+	first = TUR
+	second = MON
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Iraq
+substate = {
+	first = TUR
+	second = IRQ
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Baban
+vassal = {
+	first = TUR
+	second = BBN
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Soran
+vassal = {
+	first = TUR
+	second = SRN
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Hakkari
+vassal = {
+	first = TUR
+	second = HKI
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Bitlis
+vassal = {
+	first = TUR
+	second = BTL
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Ottoman Empire-Bohtan
+vassal = {
+	first = TUR
+	second = BOT
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Finland
+vassal = {
+	first = RUS
+	second = FIN
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Poland
+vassal = {
+	first = RUS
+	second = POL
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Abkhazia
+substate = {
+	first = RUS
+	second = ABK
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Mingrelia
+substate = {
+	first = RUS
+	second = MGR
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Guria
+substate = {
+	first = RUS
+	second = GUR
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Svaneti
+substate = {
+	first = RUS
+	second = SVA
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Tarki
+substate = {
+	first = RUS
+	second = TRK
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Avar
+substate = {
+	first = RUS
+	second = AVA
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Gazikumukh
+substate = {
+	first = RUS
+	second = GZK
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Shirvan
+substate = {
+	first = RUS
+	second = SHR
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Karabakh
+substate = {
+	first = RUS
+	second = KRB
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Shaki
+substate = {
+	first = RUS
+	second = SKI
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Russian Empire-Talysh
+substate = {
+	first = RUS
+	second = TLS
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+# Siam-Vientiane
+vassal = {
+	first = SIA
+	second = WIA
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Siam-Champasak
+vassal = {
+	first = SIA
+	second = CPS
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Siam-Patani
+vassal = {
+	first = SIA
+	second = PTN
+	start_date = 1815.1.1
+	end_date = 1902.1.1
+}
+
+# Siam-Chiang Mai
+vassal = {
+	first = SIA
+	second = CHM
+	start_date = 1815.1.1
+	end_date = 1902.1.1
+}
+
+# Sweden-Norway
+vassal = {
+	first = SWE
+	second = NOR
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Prussia-Hohenzollern-Sigmaringen
+vassal = {
+	first = PRU
+	second = HOH
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Maku
+substate = {
+	first = PER
+	second = MKU
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Erivan
+substate = {
+	first = PER
+	second = ERI
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Maragheh
+substate = {
+	first = PER
+	second = MRG
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Nakhichevan
+substate = {
+	first = PER
+	second = NAK
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Urmia
+substate = {
+	first = PER
+	second = URM
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Marand
+substate = {
+	first = PER
+	second = MRD
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+# Persia-Ardalan
+vassal = {
+	first = PER
+	second = ARD
+	start_date = 1815.1.1
+	end_date = 1828.1.1
+}
+
+#######################
+#        INDIA        #
+#######################
+
+# United Kingdom-East India Company
+substate = {
+	first = ENG
+	second = EIC
+	start_date = 1801.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Cochin
+vassal = {
+	first = ENG
+	second = COC
+	start_date = 1801.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Awadh
+vassal = {
+	first = ENG
+	second = AWA
+	start_date = 1801.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Beroda
+vassal = {
+	first = ENG
+	second = BER
+	start_date = 1802.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Bundelkhand
+vassal = {
+	first = ENG
+	second = BUN
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Rewa
+vassal = {
+	first = ENG
+	second = REW
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Hyderabad
+vassal = {
+	first = ENG
+	second = HYD
+	start_date = 1798.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Mysore
+vassal = {
+	first = ENG
+	second = MYS
+	start_date = 1799.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Orissa
+vassal = {
+	first = ENG
+	second = ORI
+	start_date = 1803.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Travancore
+vassal = {
+	first = ENG
+	second = TRA
+	start_date = 1795.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Pudukkottai
+vassal = {
+	first = ENG
+	second = PDK
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Coorg
+vassal = {
+	first = ENG
+	second = COO
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Kathiawar
+vassal = {
+	first = ENG
+	second = KAT
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Palanpur
+vassal = {
+	first = ENG
+	second = PLP
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Mahi Kantha
+vassal = {
+	first = ENG
+	second = MKH
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Rewa Kantha
+vassal = {
+	first = ENG
+	second = RKH
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Surat
+vassal = {
+	first = ENG
+	second = SRT
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Tripura
+vassal = {
+	first = ENG
+	second = TRP
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Cooch Behar
+vassal = {
+	first = ENG
+	second = CHB
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Rampur
+vassal = {
+	first = ENG
+	second = RMP
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Kolhapur
+vassal = {
+	first = ENG
+	second = KLP
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Savantvari
+vassal = {
+	first = ENG
+	second = SVV
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Chhattisgarh
+vassal = {
+	first = ENG
+	second = CHG
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Garhwal
+vassal = {
+	first = ENG
+	second = GRW
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Bushahr
+vassal = {
+	first = ENG
+	second = BSR
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Mandi
+vassal = {
+	first = ENG
+	second = MND
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Sirmur
+vassal = {
+	first = ENG
+	second = SMR
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# United Kingdom-Phulkian
+vassal = {
+	first = ENG
+	second = PLK
+	start_date = 1815.1.1
+	end_date = 1949.1.1
+}
+
+# Dai Nam-Cambodia
+vassal = {
+	first = DAI
+	second = CAM
+	start_date = 1807.1.1
+	end_date = 1861.1.1
+}
+
+# Japan-Ryukyu
+vassal = {
+	first = TKG
+	second = RYU
+	start_date = 1609.1.1
+	end_date = 1879.1.1
+}
+
+#Sikh Empire-Jammu
+substate = {
+	first = PAN
+	second = KAS
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+
+#Kalat
+substate = {
+	first = KAL
+	second = MAK
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = KAL
+	second = KHA
+	start_date = 1815.1.1
+	end_date = 1937.1.1
+}

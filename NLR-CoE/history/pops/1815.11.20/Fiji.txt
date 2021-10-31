@@ -1,0 +1,56 @@
+#Eastern Melanesia 
+#uncolonized in 1836 #ruled by the King of Fiji}
+#Fiji 
+2454 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 591
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 313
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 1531
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 1252
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 27874
+	}
+	
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 34
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 69
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 139
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 136
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 2505
+	}
+}

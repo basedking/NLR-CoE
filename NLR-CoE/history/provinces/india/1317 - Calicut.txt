@@ -1,0 +1,6 @@
+owner = EIC
+controller = EIC
+add_core = MYS
+trade_goods = tea
+life_rating = 33
+colonial = 2

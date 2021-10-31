@@ -1,0 +1,206 @@
+#Basra
+#Kuwait
+935 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 338
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 338
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1015
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 676
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 18456
+	}
+}
+#Bahrain
+#Bahrain
+1162 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 78
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 47
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 31
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 157
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 314
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 628
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 5824
+	}
+	clergymen = {
+		culture = arab
+		religion = shiite
+		size = 157
+	}
+	artisans = {
+		culture = arab
+		religion = shiite
+		size = 472
+	}
+	farmers = {
+		culture = arab
+		religion = shiite
+		size = 8815
+	}
+}
+#Doha
+1165 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 44
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 44
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 178
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 176
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 3260
+	}
+}
+#Uman
+#Abu Dhabi
+1167 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 12
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 7
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 4
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 124
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2196
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 1822
+	}
+}
+#Dubai 
+1168 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 65
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 98
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 197
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 260
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 4784
+	}
+}
+#Ras al-Khaimah
+920 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 26
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 39
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 79
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 104
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 1930
+	}
+}

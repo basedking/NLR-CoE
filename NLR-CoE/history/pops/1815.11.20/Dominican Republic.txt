@@ -1,0 +1,240 @@
+#Santo Domingo
+2214 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 36
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 103
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 1822
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 148
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 116
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2770
+	}
+}
+#La Vega
+2216 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 74
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 29
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 118
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 2126
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 88
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 88
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1651
+	}
+}
+#Azua
+2238 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 74
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 29
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 118
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 2126
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 88
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 88
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1651
+	}
+}
+#Santiago de los Caballeros
+2218 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 74
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 29
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 118
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 2126
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 88
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 88
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1651
+	}
+}
+#Santa Cruz de El Seibo
+2235 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 36
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 103
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 1822
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 148
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 116
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2770
+	}
+}

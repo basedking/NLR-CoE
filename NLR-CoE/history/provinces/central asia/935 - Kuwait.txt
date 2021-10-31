@@ -1,0 +1,5 @@
+owner = KUW
+controller = KUW
+add_core = KUW
+trade_goods = fish
+life_rating = 32

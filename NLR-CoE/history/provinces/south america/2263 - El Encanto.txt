@@ -1,0 +1,5 @@
+owner = CLM
+controller = SPA
+add_core = CLM
+trade_goods = rubber
+life_rating = 42

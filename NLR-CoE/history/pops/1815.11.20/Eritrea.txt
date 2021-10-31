@@ -1,0 +1,210 @@
+#Eritrea Region 
+#under the rule of Egypt in 1836  
+#Massawa  
+1849 = {
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 52
+	}
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 79
+	}
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 161
+	}
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size = 102
+	}
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 2912
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 3
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 84
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 79
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 79
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 213
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 102
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 3884
+	}
+}
+#Assab  
+1851 = {
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 133
+	}
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 79
+	}
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 376
+	}
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size = 321
+	}
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 6880
+	}
+	aristocrats = {
+		culture = afar
+		religion = sunni
+		size = 79
+	}
+	clergymen = {
+		culture = afar
+		religion = sunni
+		size = 79
+	}
+	artisans = {
+		culture = afar
+		religion = sunni
+		size = 213
+	}
+	soldiers = {
+		culture = afar
+		religion = sunni
+		size = 212
+	}
+	farmers = {
+		culture = afar
+		religion = sunni
+		size = 3884
+	}
+}
+#under the rule of Ethiopia in 1836  
+#Asmara  
+1848 = {
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 242
+	}
+	bureaucrats = {
+		culture = tigray
+		religion = coptic
+		size = 15
+	}
+	officers = {
+		culture = tigray
+		religion = coptic
+		size = 24
+	}
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 133
+	}
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 646
+	}
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 537
+	}
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 11684
+	}
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 161
+	}
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 79
+	}
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 430
+	}
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size = 321
+	}
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 7878
+	}
+}
+#Akordat  
+1850 = {
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 133
+	}
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 79
+	}
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 376
+	}
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 321
+	}
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 6880
+	}
+}

@@ -1,0 +1,5 @@
+owner = BSR
+controller = BSR
+add_core = BSR
+trade_goods = wool
+life_rating = 33

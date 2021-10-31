@@ -1,0 +1,364 @@
+#file includes modern Somalia and Djibouti
+#Somaliland
+#Mogadishu
+1868 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 985
+	}
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 22
+	}
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 69
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 515
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 2042
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 2063
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 40938
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5635
+	}
+}
+#Kismayo
+1870 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 193
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 104
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 457
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 416
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 9705
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 52
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 34
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 174
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 138
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 3222
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 773
+	}
+}
+#Baidoa
+1869 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 916
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 457
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 2344
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1830
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 42747
+	}
+}
+#Galkayo
+1871 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 338
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 168
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 750
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 768
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 15017
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1936
+	}
+}
+#Busaso
+1872 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 197
+	}
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 2
+	}
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 17
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 100
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 430
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 436
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 7944
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1833
+	}
+}
+#Burao
+1873 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 808
+	}
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 7
+	}
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 44
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 407
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 1682
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1726
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 30284
+	}
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 6369
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2729
+	}
+}
+#Hargeisa
+1874 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 655
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 326
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 1753
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1304
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 32040
+	}
+}
+#Beled Weyne	
+1759 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 447
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 223
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 1147
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 892
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 20912
+	}
+}
+#Jibuti #now part of Djibouti  
+1875 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 73
+	}
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 109
+	}
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 219
+	}
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 143
+	}
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 3963
+	}
+	aristocrats = {
+		culture = afar
+		religion = sunni
+		size = 73
+	}
+	clergymen = {
+		culture = afar
+		religion = sunni
+		size = 109
+	}
+	artisans = {
+		culture = afar
+		religion = sunni
+		size = 292
+	}
+	soldiers = {
+		culture = afar
+		religion = sunni
+		size = 292
+	}
+	farmers = {
+		culture = afar
+		religion = sunni
+		size = 5320
+	}
+}

@@ -1,0 +1,21 @@
+name = "Anglo-Kutch War"
+
+1814.11.1 = {
+	add_attacker = ENG
+	add_attacker = EIC
+	add_attacker = BER
+	add_defender = KUT
+	
+	war_goal = {
+		casus_belli = make_puppet
+		actor = ENG
+		receiver = KUT
+	}
+}
+
+1816.3.4 = {
+	rem_attacker = ENG
+	rem_attacker = EIC
+	rem_attacker = BER
+	rem_defender = KUT
+}

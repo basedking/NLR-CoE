@@ -1,0 +1,6 @@
+owner = SHR
+controller = SHR
+add_core = SHR
+add_core = AZB
+trade_goods = grain
+life_rating = 37

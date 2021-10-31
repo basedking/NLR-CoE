@@ -1,0 +1,492 @@
+#Nordnorge
+#Trondheim
+305 = {
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 131
+	}
+	officers = {
+		culture = norwegian
+		religion = protestant
+		size = 21
+	}
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 65
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 1429
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 1932
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 13312
+	}
+}
+#Steinkjer
+2242 = {
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 93
+	}
+	officers = {
+		culture = norwegian
+		religion = protestant
+		size = 15
+	}
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 45
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 1013
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 1364
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 9440
+	}
+}
+#Bodo
+306 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 589
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 308
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 9508
+	}
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 864
+	}
+}
+#Hammerfest
+307 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 32
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 345
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 128
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 3039
+	}
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 1382
+	}
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 1382
+	}
+}
+#Tromsø
+2300 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 77
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 771
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 308
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 9254
+	}
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 2415
+	}
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 1297
+	}
+}
+#Vestlandet
+#Bergen
+309 = {
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 226
+	}
+	officers = {
+		culture = norwegian
+		religion = protestant
+		size = 45
+	}
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 90
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 2270
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 1996
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 17348
+	}
+}
+#Alesund
+308 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 58
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 855
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 304
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 13095
+	}
+}
+#Leikanger
+337 = {
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 156
+	}
+	officers = {
+		culture = norwegian
+		religion = protestant
+		size = 30
+	}
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 60
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 1568
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 1376
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 11990
+	}
+}
+#Stavanger
+347 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 49
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 562
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 1232
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 10650
+	}
+}
+#Ostlandet
+#Christiania
+313 = {
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 299
+	}
+	officers = {
+		culture = norwegian
+		religion = protestant
+		size = 59
+	}
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 74
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 4191
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 2632
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 10941
+	}
+}
+#Hamar
+314 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 74
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 823
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 448
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 14033
+	}
+}
+#Lillehammer
+315 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 88
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 888
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 564
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 15943
+	}
+}
+#Frederiksstad
+316 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 52
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 521
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 416
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 11153
+	}
+}
+#Christiansand
+310 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 48
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 556
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 1224
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 10531
+	}
+}
+#Skien
+311 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 53
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 538
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 284
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 11549
+	}
+}
+#Drammen
+312 = {
+		clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 53
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 867
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 432
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 13511
+	}
+}
+#Arendal
+340 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 38
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 445
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 976
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 8424
+	}
+}
+#Tonsberg
+338 = {
+		clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 39
+	}
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 628
+	}
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 312
+	}
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 9783
+	}
+}

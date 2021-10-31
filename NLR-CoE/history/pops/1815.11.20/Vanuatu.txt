@@ -1,0 +1,30 @@
+#Southern Melanesia #see New Caledonia
+#uncolonized in 1836
+#New Hebrides 
+2535 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 120
+	}
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 72
+	}
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 337
+	}
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 288
+	}
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 6156
+	}
+}

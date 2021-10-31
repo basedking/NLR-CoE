@@ -1,0 +1,35 @@
+army = {
+	name = "1st Army"
+	location = 923
+	regiment = {
+		name= "1. Mosul Militia"
+		type = irregular
+		home = 923
+	}
+	regiment = {
+		name= "2. Mosul Militia"
+		type = irregular
+		home = 923
+	}
+	regiment = {
+		name= "3. Mosul Militia"
+		type = irregular
+		home = 923
+	}
+	regiment = {
+		name= "4. Mosul Militia"
+		type = irregular
+		home = 923
+	}
+}
+
+army = {
+	name = "1st Army"
+	location = 931
+	regiment = {
+		name= "1. Rutbah Militia"
+		type = irregular
+		home = 931
+	}
+}
+

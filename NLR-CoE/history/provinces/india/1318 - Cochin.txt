@@ -1,0 +1,5 @@
+owner = COC
+controller = COC
+add_core = COC
+trade_goods = fish
+life_rating = 33

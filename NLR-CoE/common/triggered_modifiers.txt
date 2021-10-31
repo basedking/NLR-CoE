@@ -1,0 +1,23 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+
+east_india_company = {
+	trigger = {	
+		primary_culture = british
+		capital = 1251
+	}
+	icon = 9
+	prestige = -0.1
+	supply_consumption = -0.3
+}
+
+land_locked = {
+	trigger = {	
+		NOT = { num_of_ports = 1 }
+	}
+	icon = 9
+	import_cost = 0.1
+	global_immigrant_attract = -0.75
+}

@@ -1,0 +1,7 @@
+owner = HKI
+controller = HKI
+add_core = HKI
+add_core = ARM
+add_core = KUR
+trade_goods = grain
+life_rating = 33

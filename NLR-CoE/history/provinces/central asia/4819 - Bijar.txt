@@ -1,0 +1,6 @@
+owner = ARD
+controller = ARD
+add_core = ARD
+add_core = KUR
+trade_goods = wool
+life_rating = 34

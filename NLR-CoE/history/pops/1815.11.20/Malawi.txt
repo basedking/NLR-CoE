@@ -1,0 +1,201 @@
+#Nyasaland Region  
+#uncolonized in 1836/dohanated by the Yao
+#Blantyre 
+2066 = {
+	aristocrats = {
+		culture = chewa
+		religion = animist
+		size = 902
+	}
+	clergymen = {
+		culture = chewa
+		religion = animist
+		size = 492
+	}
+	artisans = {
+		culture = chewa
+		religion = animist
+		size = 2378
+	}
+	soldiers = {
+		culture = chewa
+		religion = animist
+		size = 1968
+	}
+	farmers = {
+		culture = chewa
+		religion = animist
+		size = 43296
+	}
+	slaves = {
+		culture = chewa
+		religion = animist
+		size = 4920
+	}
+	aristocrats = {
+		culture = lomwe
+		religion = animist
+		size = 451
+	}
+	clergymen = {
+		culture = lomwe
+		religion = animist
+		size = 246
+	}
+	artisans = {
+		culture = lomwe
+		religion = animist
+		size = 1230
+	}
+	soldiers = {
+		culture = lomwe
+		religion = animist
+		size = 984
+	}
+	farmers = {
+		culture = lomwe
+		religion = animist
+		size = 22427
+	}
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 205
+	}
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 123
+	}
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 656
+	}
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 656
+	}
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 7011
+	}
+}
+#Lilongwe/dohanated by Kazembe 
+2067 = {
+	aristocrats = {
+		culture = chewa
+		religion = animist
+		size = 560
+	}
+	clergymen = {
+		culture = chewa
+		religion = animist
+		size = 320
+	}
+	artisans = {
+		culture = chewa
+		religion = animist
+		size = 1520
+	}
+	soldiers = {
+		culture = chewa
+		religion = animist
+		size = 1280
+	}
+	farmers = {
+		culture = chewa
+		religion = animist
+		size = 27680
+	}
+	slaves = {
+		culture = chewa
+		religion = animist
+		size = 6400
+	}
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 640
+	}
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 320
+	}
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 1360
+	}
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 1440
+	}
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 24200
+	}
+}
+#Mzuzu
+1944 = {
+	aristocrats = {
+		culture = chewa
+		religion = animist
+		size = 217
+	}
+	clergymen = {
+		culture = chewa
+		religion = animist
+		size = 124
+	}
+	artisans = {
+		culture = chewa
+		religion = animist
+		size = 589
+	}
+	soldiers = {
+		culture = chewa
+		religion = animist
+		size = 496
+	}
+	farmers = {
+		culture = chewa
+		religion = animist
+		size = 10726
+	}
+	slaves = {
+		culture = chewa
+		religion = animist
+		size = 2480
+	}
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 248
+	}
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 124
+	}
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 527
+	}
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 556
+	}
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 9377
+	}
+}

@@ -1,0 +1,38 @@
+name = "Ottoman-Wahhabi War"
+
+1811.1.1 = {
+	add_attacker = TUR
+	add_attacker = EGY
+	add_defender = NEJ
+
+	war_goal = {
+		casus_belli = liberate_country
+		country = HIL
+		actor = TUR
+		receiver = NEJ
+	}
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = TUR
+		receiver = NEJ
+	}
+	war_goal = {
+		casus_belli = demand_concession_casus_belli
+		state_province_id = 1151
+		actor = NEJ
+		receiver = EGY
+	}
+	war_goal = {
+		casus_belli = demand_concession_casus_belli
+		state_province_id = 1155
+		actor = NEJ
+		receiver = EGY
+	}
+}
+
+1818.9.15 = {
+	rem_attacker = TUR
+	rem_attacker = EGY
+	rem_attacker = IRQ
+	rem_defender = NEJ
+}

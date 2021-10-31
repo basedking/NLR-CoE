@@ -1,0 +1,25 @@
+#Sphere of Influence
+RUS = {
+	value = -200
+}
+
+army = {
+	name = "1st Army"
+	location = 1051
+	regiment = {
+		name= "1. Adygei Militia"
+		type = irregular
+		home = 1051
+	}
+	regiment = {
+		name= "1. Batalpashinskaya Militia"
+		type = irregular
+		home = 3349
+	}
+	regiment = {
+		name= "1. Yekaterinodar Militia"
+		type = irregular
+		home = 1048
+	}
+}
+

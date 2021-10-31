@@ -1,0 +1,65 @@
+#Himalaya Region #see Nepal
+#under the rule of Bhutan in 1836  
+#Thimbpu   
+1329 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 365
+	}
+	bureaucrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 15
+	}
+	officers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 15
+	}
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 190
+	}
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 953
+	}
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2796
+	}
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 16887
+	}
+	aristocrats = {
+		culture = nepali
+		religion = hindu
+		size = 31
+	}
+	clergymen = {
+		culture = nepali
+		religion = hindu
+		size = 47
+	}
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 127
+	}
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 60
+	}
+	farmers = {
+		culture = nepali
+		religion = hindu
+		size = 2319
+	}
+}

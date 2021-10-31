@@ -1,0 +1,6 @@
+owner = SPA
+controller = SPA
+add_core = CHL
+trade_goods = wool
+life_rating = 42
+colonial = 2

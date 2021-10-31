@@ -1,0 +1,5 @@
+owner = ALW
+controller = ALW
+add_core = ALW
+trade_goods = grain
+life_rating = 33

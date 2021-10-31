@@ -1,0 +1,327 @@
+#Ubangi-Shari Region
+#uncolonized in 1836
+#Bangui
+1965 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 653
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 326
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 1698
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 1436
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 30933
+	}
+}
+#Nola
+1966 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 130
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 653
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 520
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 11922
+	}
+}
+#uncolonized in 1836/under influence of Baguirmi
+#Bouar
+1967 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 163
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 457
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 8329
+	}
+}
+#Bossangoa
+1968 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 130
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 653
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 520
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 11922
+	}
+	aristocrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 13
+	}
+	clergymen = {
+		culture = baguirmi
+		religion = sunni
+		size = 32
+	}
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 65
+	}
+	soldiers = {
+		culture = baguirmi
+		religion = sunni
+		size = 76
+	}
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 1175
+	}
+	aristocrats = {
+		culture = sara
+		religion = animist
+		size = 65
+	}
+	clergymen = {
+		culture = sara
+		religion = animist
+		size = 97
+	}
+	artisans = {
+		culture = sara
+		religion = animist
+		size = 195
+	}
+	soldiers = {
+		culture = sara
+		religion = animist
+		size = 128
+	}
+	farmers = {
+		culture = sara
+		religion = animist
+		size = 3527
+	}
+}
+#Dar Banda Region
+#uncolonized in 1836/under influence of Azande
+#Zemio
+1969 = {
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 130
+	}
+	clergymen = {
+		culture = azande
+		religion = animist
+		size = 65
+	}
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 391
+	}
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 388
+	}
+	farmers = {
+		culture = azande
+		religion = animist
+		size = 7153
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 326
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 260
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 5977
+	}
+}
+#Bangassou
+1970 = {
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 13
+	}
+	clergymen = {
+		culture = azande
+		religion = animist
+		size = 32
+	}
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 65
+	}
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 76
+	}
+	farmers = {
+		culture = azande
+		religion = animist
+		size = 1175
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 293
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 195
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 849
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 780
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 15515
+	}
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele
+1971 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 13
+	}
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 32
+	}
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 65
+	}
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 76
+	}
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 1175
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 130
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 391
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 7153
+	}
+}

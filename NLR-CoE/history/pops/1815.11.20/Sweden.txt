@@ -1,0 +1,697 @@
+#Norrland Region 328000
+#Gavle
+317 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 124
+	}
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 248
+	}
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 82
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 144
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1655
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 18312
+	}
+}
+#Sundsvall
+318 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 41
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 82
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 910
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 824
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 15809
+	}
+}
+#Ostersund
+319 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 41
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 413
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 328
+	}
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 7738
+	}
+	labourers = {
+		culture = norwegian
+		religion = protestant
+		size = 910
+	}
+}
+#Umea
+320 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 62
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 620
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 824
+	}
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 9870
+	}
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 910
+	}
+}
+#Lulea
+321 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 41
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 331
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 5173
+	}
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 82
+	}
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 1655
+	}
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 910
+	}
+}
+#Svealand Region : 1178000
+#Stockholm
+322 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 620
+	}
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 413
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 8277
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 8277
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 910
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 13240
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 20899
+	}
+}
+#Falun
+323 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1448
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 27107
+	}
+}
+#Uppsala
+324 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 82
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 103
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1034
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 16160
+	}
+}
+#Norrkoping
+325 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 2483
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 42005
+	}
+}
+#Vasteras
+326 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 99
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 99
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1092
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1748
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 19368
+	}
+}
+#Orebro
+327 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 103
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1241
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 23982
+	}
+}
+#Karlstad
+328 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 331
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 248
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 2069
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 27562
+	}
+}
+#Gotaland Region : 1457000
+#Goteborg
+329 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 124
+	}
+	officers = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 206
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 4138
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 27934
+	}
+}
+#Boras
+330 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 252
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 126
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1262
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 2220
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 29762
+	}
+}
+#Visby
+331 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 82
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 41
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 579
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 328
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 7490
+	}
+}
+#Kalmar
+332 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 248
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 186
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 2069
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 3640
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 34328
+	}
+}
+#Vaxjo
+333 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 144
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 108
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1013
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1272
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 18432
+	}
+}
+#Malmo
+334 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 455
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 227
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 2276
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 2728
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 43143
+	}
+}
+#Karlskrona
+335 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 176
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 105
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 879
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1236
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 17061
+	}
+}
+#Jönköping
+380 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 269
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 201
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1883
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 2364
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 34230
+	}
+}
+#Nyköping
+574 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 107
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 107
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1183
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1892
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 20982
+	}
+}
+#Kristianstad
+396 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 341
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 205
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 1707
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 2400
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 33118
+	}
+}
+#Skövde
+393 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 161
+	}
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 81
+	}
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 807
+	}
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1420
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 20525
+	}
+}

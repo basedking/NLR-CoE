@@ -1,0 +1,311 @@
+#Dahomey Region
+#uncolonized in 1836/ruled by Dahomey
+#Cotonou
+1919 = {
+	aristocrats = {
+		culture = fon
+		religion = animist
+		size = 955
+	}
+	clergymen = {
+		culture = fon
+		religion = animist
+		size = 489
+	}
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 2008
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 1956
+	}
+	farmers = {
+		culture = fon
+		religion = animist
+		size = 29371
+	}
+	slaves = {
+		culture = fon
+		religion = animist
+		size = 1959
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 269
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 146
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 734
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 584
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 13399
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 12738
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 24
+	}
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 97
+	}
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 96
+	}
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 1763
+	}
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 1959
+	}
+}
+#Abomey
+1920 = {
+	aristocrats = {
+		culture = fon
+		religion = animist
+		size = 1028
+	}
+	bureaucrats = {
+		culture = fon
+		religion = animist
+		size = 48
+	}
+	officers = {
+		culture = fon
+		religion = animist
+		size = 97
+	}
+	clergymen = {
+		culture = fon
+		religion = animist
+		size = 489
+	}
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 2082
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 2152
+	}
+	farmers = {
+		culture = fon
+		religion = animist
+		size = 41766
+	}
+	slaves = {
+		culture = fon
+		religion = animist
+		size = 3919
+	}
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 195
+	}
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 192
+	}
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 3576
+	}
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 1077
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 146
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 2645
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1077
+	}
+}
+#Borgu Region #see Nigeria
+#ruled by Sokoto in 1836
+#Nikki
+1921 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 146
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 2645
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1077
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 171
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 97
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 367
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 7103
+	}
+}
+#Jugu
+1922 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 244
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 192
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4482
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 24
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 97
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1763
+	}
+}

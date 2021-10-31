@@ -1,0 +1,232 @@
+#Windward Islands Region - 188000
+#Barbados #now independent
+2229 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 36
+	}
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 72
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 36
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 1273
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 144
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 800
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 54
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 2000
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 724
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 13767
+	}
+}
+#Dohanica #now independent
+2232 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 133
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 102
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 51
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 154
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 204
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 4375
+	}
+}
+#Grenada #now independent
+2233 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 24
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 19
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 241
+	}
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 16
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 193
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 48
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 144
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 288
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 6490
+	}
+	
+	
+	
+	
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 8
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 8
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 109
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 84
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 42
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 84
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 168
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 3405
+	}
+	
+	
+	
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 11
+	}
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 155
+	}
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 119
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 59
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 239
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 236
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 5632
+	}
+}

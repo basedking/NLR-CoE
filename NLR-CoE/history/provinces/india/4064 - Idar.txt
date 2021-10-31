@@ -1,0 +1,5 @@
+owner = MKH
+controller = MKH
+add_core = MKH
+trade_goods = grain
+life_rating = 33

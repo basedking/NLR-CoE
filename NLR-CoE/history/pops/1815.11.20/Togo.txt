@@ -1,0 +1,196 @@
+#Togo Region #see Ghana
+#uncolonized in 1836
+#Lome  
+1914 = {
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 859
+	}
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 443
+	}
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 1746
+	}
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 1772
+	}
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 34212
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 304
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 166
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 665
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 664
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 13113
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 7762
+	}
+}
+#Atakpane  
+1917 = {
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 277
+	}
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 166
+	}
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 776
+	}
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 664
+	}
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 14139
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 138
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 83
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 388
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 332
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 7069
+	}
+	aristocrats = {
+		culture = fon
+		religion = animist
+		size = 221
+	}
+	clergymen = {
+		culture = fon
+		religion = animist
+		size = 110
+	}
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 499
+	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 552
+	}
+	farmers = {
+		culture = fon
+		religion = animist
+		size = 9010
+	}
+	slaves = {
+		culture = fon
+		religion = animist
+		size = 2217
+	}
+}
+#Sokode  
+1918 = {
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 55
+	}
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 55
+	}
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 221
+	}
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 220
+	}
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4047
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 27
+	}
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 55
+	}
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 110
+	}
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 108
+	}
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1996
+	}
+}

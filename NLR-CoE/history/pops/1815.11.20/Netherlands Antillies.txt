@@ -1,0 +1,76 @@
+#Curacao
+2234 = {
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 6
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 124
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 88
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 188
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 148
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 3521
+	}
+	
+	
+	
+	
+	
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 31
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 31
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 691
+	}
+}
+#Saint Martin
+2236 = {
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 31
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 69
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1408
+	}
+}

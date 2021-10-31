@@ -1,0 +1,6 @@
+owner = MRD
+controller = MRD
+add_core = MRD
+add_core = AZB
+trade_goods = wool
+life_rating = 34

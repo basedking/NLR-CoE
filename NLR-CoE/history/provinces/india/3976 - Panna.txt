@@ -1,0 +1,5 @@
+owner = BUN
+controller = BUN
+add_core = BUN
+trade_goods = precious_metal
+life_rating = 33

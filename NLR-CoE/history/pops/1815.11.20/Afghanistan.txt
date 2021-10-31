@@ -1,0 +1,624 @@
+#Afghanistan Region
+#under the rule of Afghanistan in 1836
+#Kabul
+1209 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 2557
+	}
+	bureaucrats = {
+		culture = pashtun
+		religion = sunni
+		size = 765
+	}
+	officers = {
+		culture = pashtun
+		religion = sunni
+		size = 579
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 1278
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 5023
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 40928
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 105150
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 1859
+	}
+	officers = {
+		culture = persian
+		religion = sunni
+		size = 324
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 905
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 4557
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 4088
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 82589
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 230
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 127
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 743
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 552
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 13638
+	}
+}
+#Mazar-i-Sharif
+1211 = {
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 966
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 490
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 996
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 1988
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 46002
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 452
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 233
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 1148
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 896
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 20904
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 90
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 52
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 300
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 236
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 5536
+	}
+}
+#Herat
+1212 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 376
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 201
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 986
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 5104
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 17013
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 1451
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 739
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 3716
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 18576
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 63774
+	}
+}
+#Maymana
+1213 = {
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 406
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 206
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 420
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 836
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 19393
+	}
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 190
+	}
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 98
+	}
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 483
+	}
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 376
+	}
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 8812
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 37
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 21
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 126
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 96
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 2333
+	}
+}
+#Farrah
+1214 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 116
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 61
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 298
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 932
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 5281
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 367
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 186
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 937
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 932
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 17065
+	}
+}
+#Qandahar
+1215 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1136
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 590
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 2843
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 4164
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 51552
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 378
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 199
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 995
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 4164
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 17383
+	}
+	aristocrats = {
+		culture = hazara
+		religion = shiite
+		size = 163
+	}
+	clergymen = {
+		culture = hazara
+		religion = shiite
+		size = 93
+	}
+	artisans = {
+		culture = hazara
+		religion = shiite
+		size = 496
+	}
+	soldiers = {
+		culture = hazara
+		religion = shiite
+		size = 372
+	}
+	farmers = {
+		culture = hazara
+		religion = shiite
+		size = 9574
+	}
+}
+#Jalalabad
+1216 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1809
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 937
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 4663
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 22272
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 80744
+	}
+}
+#Ghzani
+1217 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1206
+	}
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 614
+	}
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 3041
+	}
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 2408
+	}
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 55374
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 178
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 99
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 581
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 436
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 10656
+	}
+}
+#Badakhshan Region
+#under the rule of Afghanistan in 1836
+#Faizabad
+1210 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 50
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 25
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 144
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 1820
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 2285
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 683
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 320
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 1554
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 6632
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 28132
+	}
+}
+#Baghlan
+2581 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 105
+	}
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 52
+	}
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 298
+	}
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 3748
+	}
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 4701
+	}
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 1407
+	}
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 659
+	}
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 3199
+	}
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 13648
+	}
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 57873
+	}
+}

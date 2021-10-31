@@ -1,0 +1,5 @@
+owner = CCS
+controller = CCS
+add_core = CCS
+trade_goods = timber
+life_rating = 38

@@ -1,0 +1,17 @@
+name = "New Granadan War of Independence"
+
+1810.1.1 = {
+	add_attacker = SPA
+	add_defender = CLM
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = SPA
+		receiver = CLM
+	}
+}
+
+1818.1.1 = {
+	rem_attacker = SPA
+	rem_defender = CLM
+}

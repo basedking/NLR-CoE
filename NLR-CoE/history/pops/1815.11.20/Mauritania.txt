@@ -1,0 +1,352 @@
+#Nouakchott 
+1775 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 72
+	}
+	bureaucrats = {
+		culture = maures
+		religion = sunni
+		size = 3
+	}
+	officers = {
+		culture = maures
+		religion = sunni
+		size = 0
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 36
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 149
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 160
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 2937
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 486
+	}
+}
+#Rosso 
+1776 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 536
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 268
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 1380
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 1072
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 17490
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 7670
+	}
+}
+#Aleg 
+1777 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 231
+	}
+	bureaucrats = {
+		culture = maures
+		religion = sunni
+		size = 5
+	}
+	officers = {
+		culture = maures
+		religion = sunni
+		size = 2
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 118
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 504
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 520
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 7918
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3565
+	}
+}
+#Maghama
+1778 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 169
+	}
+	bureaucrats = {
+		culture = maures
+		religion = sunni
+		size = 11
+	}
+	officers = {
+		culture = maures
+		religion = sunni
+		size = 27
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 319
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 638
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 424
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 11492
+	}
+}
+#Shingit 
+1779 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 15
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 82
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 164
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 1487
+	}
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 82
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 123
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 247
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 164
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 4463
+	}
+}
+#Tichit 
+1780 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 97
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 146
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 293
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 192
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 5279
+	}
+}
+#Walata 
+1781 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 85
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 128
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 257
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 168
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 4638
+	}
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 128
+	}
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 171
+	}
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 343
+	}
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 340
+	}
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 6312
+	}
+}
+#Bir Maghrein
+1782 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 325
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 487
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 975
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 648
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 17560
+	}
+}
+#Sélibaby
+1716 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 98
+	}
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 73
+	}
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 270
+	}
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 292
+	}
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 3416
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2949
+	}
+}

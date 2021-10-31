@@ -1,0 +1,2 @@
+owner = TLScontroller = TLSadd_core = TLSadd_core = AZBtrade_goods = tea
+life_rating = 37

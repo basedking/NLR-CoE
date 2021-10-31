@@ -1,0 +1,6 @@
+owner = COO
+controller = COO
+add_core = COO
+add_core = MYS
+trade_goods = coffee
+life_rating = 33

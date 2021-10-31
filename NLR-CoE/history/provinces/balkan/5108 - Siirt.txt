@@ -1,0 +1,7 @@
+owner = BOT
+controller = BOT
+add_core = BOT
+add_core = ARM
+add_core = KUR
+trade_goods = wool
+life_rating = 33

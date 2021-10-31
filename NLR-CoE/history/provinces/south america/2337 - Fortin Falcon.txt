@@ -1,0 +1,7 @@
+owner = PRG
+controller = PRG
+add_core = PRG
+add_core = BOL
+trade_goods = wool
+life_rating = 42
+colonial = 2

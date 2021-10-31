@@ -1,0 +1,613 @@
+#Tunisia
+#Tunis 
+1725 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 840
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 125
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 115
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 428
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3579
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3579
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2684
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 5724
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 27357
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1789
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 26
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 1332
+	}
+	artisans = {
+		culture = maltese
+		religion = catholic
+		size = 178
+	}
+	artisans = {
+		culture = italian
+		religion = catholic
+		size = 178
+	}
+}
+#Bizerte 
+1726 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 280
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 150
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 729
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 984
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 13149
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 448
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 0
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 54
+	}
+}
+#Gafsa 
+1727 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 239
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 146
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 667
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2344
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 11758
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1601
+	}
+}
+#Kairouan 
+1728 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 180
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 81
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 464
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 904
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 8297
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2475
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 0
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 49
+	}
+}
+#Tozeur 
+1729 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 53
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 30
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 144
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 120
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 2623
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 758
+	}
+}
+#Gabes 
+1730 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 185
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 81
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 468
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 904
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 8421
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 824
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 1
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 100
+	}
+}
+#Sousse
+1732 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 397
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 180
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1023
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2000
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 18303
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5460
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 1
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 110
+	}
+}
+#Nabeul
+1734 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 270
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 40
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 37
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 138
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1152
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1152
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 864
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 1840
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 8809
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 576
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 8
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 429
+	}
+	artisans = {
+		culture = maltese
+		religion = catholic
+		size = 57
+	}
+	artisans = {
+		culture = italian
+		religion = catholic
+		size = 57
+	}
+}
+#Béja
+1737 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 265
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 142
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 689
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 932
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 12438
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 424
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 0
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 51
+	}
+}
+#Jendouba
+1738 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 212
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 114
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 551
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 744
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 9950
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 339
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 0
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 41
+	}
+}
+#Sfax
+1740 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 296
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 134
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 764
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 1492
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 13666
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4076
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 1
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 82
+	}
+}
+#Medenine
+1741 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 199
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 112
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 541
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 448
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 9865
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2851
+	}
+}
+#El Kef
+1743 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 244
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 149
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 682
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2400
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 12025
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1638
+	}
+}
+#Kasserine
+1744 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 152
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 92
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 424
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 1492
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 7482
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1019
+	}
+}

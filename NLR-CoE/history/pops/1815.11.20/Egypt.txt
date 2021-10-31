@@ -1,0 +1,1129 @@
+#Lower Egypt
+#Cairo
+1745 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 189
+	}
+	bureaucrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 113
+	}
+	officers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 113
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 316
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 1264
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 657
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 31
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 50
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 537
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1138
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 16192
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 33708
+	}
+	bureaucrats = {
+		culture = arab
+		religion = coptic
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 88
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 2024
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 6737
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 12
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2746
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 6
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 309
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2277
+	}
+}
+#Dumyat
+1746 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 13
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 15
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 4
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 39
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 125
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 112
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 2297
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 1
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 3
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 73
+	}
+}
+#Tanta
+1747 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 699
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 536
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 272
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 791
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 769
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3827
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 4104
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 70239
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 46
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 92
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 1725
+	}
+}
+#Mansura
+1748 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 768
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 511
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 252
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 896
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 768
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3911
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 5636
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 71065
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 63
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 126
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 2371
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 4
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 313
+	}
+}
+#Ziqaziq
+1749 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 1318
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 859
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 596
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1421
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 1318
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 6605
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 8936
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 120570
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 100
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 200
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 3758
+	}
+}
+#Giza
+1750 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 480
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 277
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 196
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 556
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 404
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2049
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2224
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 37666
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 1416
+	}
+}
+#Alexandria
+1751 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 623
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 33
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 45
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 322
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1985
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 6348
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 26937
+	}
+	bureaucrats = {
+		culture = arab
+		religion = coptic
+		size = 5
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 28
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 170
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 2750
+	}
+	clergymen = {
+		culture = jewish
+		religion = judaism
+		size = 2
+	}
+	artisans = {
+		culture = jewish
+		religion = judaism
+		size = 224
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 11
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3395
+	}
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 1361
+	}
+}
+#Matruh
+1752 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 13
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 7
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 36
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 268
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 619
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 3
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 4
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 9
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 4
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 164
+	}
+}
+#Sidi Barrani
+1753 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1095
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 736
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3715
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2944
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 68325
+	}
+}
+#Suez
+1755 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 195
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 4
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 12
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 97
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 509
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 440
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 9297
+	}
+}
+#Al Arish
+1756 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 2
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 5
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 11
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 8
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 204
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 2
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 5
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 11
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 8
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 204
+	}
+}
+#Farafra
+1758 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 26
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 53
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 106
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 104
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 1946
+	}
+}
+#Asyut
+1762 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1046
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 182
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 291
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 501
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2593
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 7364
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 45638
+	}
+	bureaucrats = {
+		culture = arab
+		religion = coptic
+		size = 23
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 249
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 1507
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 28371
+	}
+}
+#Bani Suwayf
+1763 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 544
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 296
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1589
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 1584
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 28997
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 98
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 296
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 5567
+	}
+}
+#hanya
+1764 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 916
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 488
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2571
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 10776
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 44934
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 120
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 609
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 11521
+	}
+}
+#Fayyum
+1765 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 703
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 372
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 1849
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 3872
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 33204
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 43
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 263
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 4979
+	}
+}
+#Suhaj
+2559 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1197
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 670
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 3298
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 2984
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 60107
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 147
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 295
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 5548
+	}
+}
+#Aswan
+1766 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 308
+	}
+	bureaucrats = {
+		culture = arab
+		religion = sunni
+		size = 77
+	}
+	officers = {
+		culture = arab
+		religion = sunni
+		size = 129
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 174
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 883
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 876
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 15907
+	}
+	bureaucrats = {
+		culture = arab
+		religion = coptic
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 87
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 174
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 3274
+	}
+}
+#Qina
+1769 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1077
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 532
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 2965
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 3216
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 54007
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 266
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 532
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 9984
+	}
+}
+#Qusayr
+1770 = {
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 9
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 19
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 12
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 353
+	}
+}
+#Ras Gharib
+1772 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = sunni
+		size = 1169
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = sunni
+		size = 895
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = sunni
+		size = 456
+	}
+	aristocrats = {
+		culture = arab
+		religion = sunni
+		size = 1323
+	}
+	clergymen = {
+		culture = arab
+		religion = sunni
+		size = 1285
+	}
+	artisans = {
+		culture = arab
+		religion = sunni
+		size = 6395
+	}
+	soldiers = {
+		culture = arab
+		religion = sunni
+		size = 6856
+	}
+	farmers = {
+		culture = arab
+		religion = sunni
+		size = 117371
+	}
+	clergymen = {
+		culture = arab
+		religion = coptic
+		size = 76
+	}
+	artisans = {
+		culture = arab
+		religion = coptic
+		size = 153
+	}
+	farmers = {
+		culture = arab
+		religion = coptic
+		size = 2884
+	}
+}
