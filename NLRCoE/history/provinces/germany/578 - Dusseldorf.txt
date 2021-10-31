@@ -1,6 +1,6 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = GER
 trade_goods = coal
 life_rating = 39

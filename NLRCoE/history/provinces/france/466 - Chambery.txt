@@ -1,5 +1,5 @@
-owner = SAR
-controller = SAR
+owner = FRA
+controller = FRA
 add_core = SAR
 trade_goods = timber
 life_rating = 32
